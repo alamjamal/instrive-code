@@ -1,5 +1,3 @@
-# instrive-code
-Backend REST APIs for the instrive
 
 ## Installation
 
